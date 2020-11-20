@@ -1,2 +1,5 @@
-# pdgnBD.github.io
-Puedes visualizar la ejecución de este programa desde:   https://bdarchivos-e9237.web.app 
+# rickmrfbbd
+
+Manejo de base de datos, llaves foráneas y archivos en Firebase con Firestore.
+
+Lo puedes ejecutar en https://rickmrfbbd.web.app
